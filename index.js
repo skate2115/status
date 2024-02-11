@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["To Jest Bot Stworzony Przez Alphe ✅","To Jest Bot Stworzony Przez Alphe ✅","To Jest Bot Stworzony Przez Alphe ✅"];
 
 
 let currentIndex = 0;
