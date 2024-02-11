@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["To Jest Bot Stworzony Przez Alphe ✅","To Jest Bot Stworzony Przez Alphe ✅","To Jest Bot Stworzony Przez Alphe ✅"];
+const statusMessages = ["To Jest Bot Stworzony Przez Alphe ✅"];
 
 
 let currentIndex = 0;
